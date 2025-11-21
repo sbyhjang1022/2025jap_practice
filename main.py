@@ -2,12 +2,12 @@
 import streamlit as st
 from datetime import datetime
 
-st.set_page_config(page_title="にほんご ラーニング 🍡", page_icon="🎌", layout="centered")
+st.set_page_config(page_title="日本語勉強 🍡", page_icon="🎌", layout="centered")
 
-st.title("にほんご ラーニング 🍱🎏")
+st.title("やさしい にほんご🍙")
 st.caption("문자 → 단어 → 문장 → 문화, 4단계로 배우는 일본어 학습앱")
 
-with st.expander("앱 설명 💡"):
+with st.expander("무엇을 배울 수 있나요?💡"):
     st.markdown("""
 - **문자학습**: 히라가나/가타카나 읽기·쓰기 연습  
 - **단어학습**: 플래시카드 + 선택형 테스트  
