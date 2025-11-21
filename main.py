@@ -6,6 +6,7 @@ st.set_page_config(page_title="日本語勉強 🍡", page_icon="🎌", layout="
 
 st.title("やさしい にほんご🍙")
 st.caption("문자 → 단어 → 문장 → 문화, 4단계로 배우는 일본어 학습앱")
+st.caption("2025.장윤하.All rights reserved.")
 
 with st.expander("무엇을 배울 수 있나요?💡"):
     st.markdown("""
