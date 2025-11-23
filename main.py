@@ -4,7 +4,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="日本語勉強 🍡", page_icon="🎌", layout="centered")
 
-st.title("やさしい にほんご123🍙")
+st.title("やさしい にほんご🍙")
 st.caption("문자 → 단어 → 문장 → 문화, 4단계로 배우는 일본어 학습앱")
 st.caption("2025.장윤하.All rights reserved.")
 
